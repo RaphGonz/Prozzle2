@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{60C02CEE-6ACE-AABB-BF10-55BA14CC7E26}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Scripts/Controller2D.cs" Line="39" Column="31" />
+      <File FileName="Assets/Scenes/Scripts/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/Scripts/Bloc.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/Scripts/Spawner.cs" Line="173" Column="1" />
+      <File FileName="Assets/Scenes/Scripts/GameManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fcd5994c-bb32-4cf8-a409-dfefae9ed251" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
